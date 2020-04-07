@@ -14,7 +14,7 @@ public class QETool extends ItemPickaxe {
     public QETool(String toolName) {
         super(makeNewToolMaterial(ToolMaterial.valueOf(toolName)));
         this.setCreativeTab(QETools.creativeTab);
-        this.setRegistryName("qetools_tool_" + toolName.toLowerCase());
+        this.setRegistryName("tool_" + toolName.toLowerCase());
         this.setTranslationKey("qetools.tool." + toolName.toLowerCase());
         this.attackDamage = ToolMaterial.valueOf(toolName).getAttackDamage() * 2;
         this.attackSpeed = -3.2F;

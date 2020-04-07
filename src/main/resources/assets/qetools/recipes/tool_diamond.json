@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "result": { "item": "qetools:tool_diamond" },
+  "pattern": [
+    "YXX",
+    "XZ ",
+    " Z "
+  ],
+  "key": {
+    "X": { "type": "forge:ore_dict", "ore": "gemDiamond" },
+    "Y": { "type": "forge:ore_dict", "ore": "enderpearl" },
+    "Z": { "type": "forge:ore_dict", "ore": "stickWood" }
+  }
+}

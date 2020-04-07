@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "result": { "item": "qetools:tool_gold" },
+  "pattern": [
+    "YXX",
+    "XZ ",
+    " Z "
+  ],
+  "key": {
+    "X": { "type": "forge:ore_dict", "ore": "ingotGold" },
+    "Y": { "type": "forge:ore_dict", "ore": "blockGold" },
+    "Z": { "type": "forge:ore_dict", "ore": "stickWood" }
+  }
+}

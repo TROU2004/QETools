@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "result": { "item": "qetools:tool_stone" },
+  "pattern": [
+    "YXX",
+    "XZ ",
+    " Z "
+  ],
+  "key": {
+    "X": { "type": "forge:ore_dict", "ore": "cobblestone" },
+    "Y": { "type": "forge:ore_dict", "ore": "stone" },
+    "Z": { "type": "forge:ore_dict", "ore": "stickWood" }
+  }
+}

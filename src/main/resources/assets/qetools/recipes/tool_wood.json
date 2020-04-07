@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "result": { "item": "qetools:tool_wood" },
+  "pattern": [
+    "YXX",
+    "XZ ",
+    " Z "
+  ],
+  "key": {
+    "X": { "type": "forge:ore_dict", "ore": "plankWood" },
+    "Y": { "type": "forge:ore_dict", "ore": "logWood" },
+    "Z": { "type": "forge:ore_dict", "ore": "stickWood" }
+  }
+}
