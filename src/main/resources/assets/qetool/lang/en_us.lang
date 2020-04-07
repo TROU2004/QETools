@@ -1,0 +1,7 @@
+itemGroup.qetools=Quantum Entangled Tools
+
+item.qetools.tool.wood.name=QE Wood Tool
+item.qetools.tool.stone.name=QE Stone Tool
+item.qetools.tool.iron.name=QE Iron Tool
+item.qetools.tool.gold.name=QE Gold Tool
+item.qetools.tool.diamond.name=QE Diamond Tool

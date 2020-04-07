@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "qetools",
+  "name": "QETools",
+  "description": "Quantum entangled Tools",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["TROU"],
+  "credits": "TROU",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
